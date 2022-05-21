@@ -1,0 +1,21 @@
+
+What is Operational Security?
+
+Operational security (OPSEC) is a security and risk management process that prevents sensitive information from getting into the wrong hands. 
+
+Another OPSEC meaning is a process that identifies seemingly innocuous actions that could inadvertently reveal critical or sensitive data to a cyber criminal. OPSEC is both a process and a strategy, and it encourages IT and security managers to view their operations and systems from the perspective of a potential attacker. It includes analytical activities and processes like behavior monitoring, social media monitoring, and security best practice.
+
+A crucial piece of what is OPSEC is the use of risk management to discover potential threats and vulnerabilities in organizations’ processes, the way they operate, and the software and hardware their employees use. Looking at systems and operations from a third party’s point of view enables OPSEC teams to discover issues they may have overlooked and can be crucial to implementing the appropriate countermeasures that will keep their most sensitive data secure.
+How Did OPSEC Come Into the Picture?
+
+OPSEC first came about through a U.S. military team called Purple Dragon in the Vietnam War. The counterintelligence team realized that its adversaries could anticipate the U.S.’s strategies and tactics without managing to decrypt their communications or having intelligence assets to steal their data. They concluded that the U.S. military forces were actually revealing information to their enemy. Purple Dragon coined the first OPSEC definition, which was: “The ability to keep knowledge of our strengths and weaknesses away from hostile forces.”
+
+This OPSEC process has since been adopted by other government agencies, such as the Department of Defense, in their efforts to protect national security and trade secrets. It is also used by organizations that want to protect customer data and is instrumental in helping them address corporate espionage, information security, and risk management.
+Why is OPSEC Important?
+
+OPSEC is important because it encourages organizations to closely assess the security risks they face and spot potential vulnerabilities that a typical data security approach may not. OPSEC security enables IT and security teams to fine-tune their technical and non-technical processes while reducing their cyber risk and safeguarding them against malware-based attacks. 
+
+An effective OPSEC program is important to prevent the inadvertent or unintended exposure of classified or sensitive data. It enables organizations to prevent the details of their future activities, capabilities, and intentions from being made public. However, the key to achieving this is understanding what this information is about, where it is located, what level of protection is applied to it, what the impact would be if it is compromised, and how the organization would respond.
+
+If such information is leaked, attackers may be able to cause major damage. For example, they may be able to build wider cyberattacks and commit identity fraud or theft if employees reuse their login credentials across multiple online services. 
+SOURCE: https://www.fortinet.com/resources/cyberglossary/operational-security
